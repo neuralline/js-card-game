@@ -1,0 +1,16 @@
+{
+  "name": "js-card-game",
+  "version": "1.0.0",
+  "description": "JavaScript card game",
+  "main": "index.html",
+  "repository": "https://github.com/neuralline/js-card-game",
+  "homepage": "https://js-card-game.netlify.com/",
+  "author": "Darik Hart",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "keywords": [
+    "javascript games",
+    "poker",
+    "card game",
+    "object oriented javascript"
+  ]
+}
